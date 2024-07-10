@@ -1,0 +1,1 @@
+aprenda php para aprender o que fazer com esses codigos.
